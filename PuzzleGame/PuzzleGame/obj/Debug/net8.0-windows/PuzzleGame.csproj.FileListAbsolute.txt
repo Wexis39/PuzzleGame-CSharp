@@ -1,0 +1,17 @@
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\bin\Debug\net8.0-windows\PuzzleGame.exe
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\bin\Debug\net8.0-windows\PuzzleGame.deps.json
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\bin\Debug\net8.0-windows\PuzzleGame.runtimeconfig.json
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\bin\Debug\net8.0-windows\PuzzleGame.dll
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\bin\Debug\net8.0-windows\PuzzleGame.pdb
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.Form1.resources
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.dll
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\refint\PuzzleGame.dll
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.pdb
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\ref\PuzzleGame.dll
+C:\Users\Metehan\source\repos\PuzzleGame\PuzzleGame\obj\Debug\net8.0-windows\PuzzleGame.Properties.Resources.resources
